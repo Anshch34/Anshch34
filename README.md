@@ -30,6 +30,11 @@
 #### [ShopLuxe Ecommerce Web Application](https://github.com/Anshch34/ShopLuxe-EcommerceWebApp)
 A modern, full-featured e-commerce web application built with Java (Servlets, JSP, Hibernate), Maven, and MySQL. Features user registration/login, admin product management, shopping cart, order summary, and a responsive UI.
 
+#### [Stargazer Portfolio Website](https://github.com/Anshch34/Stargazer-Portfolio)
+A modern, animated, and responsive portfolio website to showcase my projects, skills, and contact information. Built with HTML, CSS, and JavaScript, featuring space-themed visuals and interactive effects.
+- 🌐 [Live Demo](https://stargazer-portfolio.netlify.app/)
+- 🔗 [Netlify Project](https://app.netlify.com/sites/stargazer-portfolio/overview)
+
 ---
 
 ### 📫 **Connect with me**

@@ -33,7 +33,6 @@ A modern, full-featured e-commerce web application built with Java (Servlets, JS
 #### [Stargazer Portfolio Website](https://github.com/Anshch34/Stargazer-Portfolio)
 A modern, animated, and responsive portfolio website to showcase my projects, skills, and contact information. Built with HTML, CSS, and JavaScript, featuring space-themed visuals and interactive effects.
 - 🌐 [Live Demo](https://stargazer-portfolio.netlify.app/)
-- 🔗 [Netlify Project](https://app.netlify.com/sites/stargazer-portfolio/overview)
 
 ---
 

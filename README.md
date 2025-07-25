@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ansh;Aspiring+Software+Developer+%7C+Java+%7C+Web+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ansh;Aspiring+Software+Developer+%7C+Java+%7C+Web+%7C+Open" alt="Typing SVG" />
 </p>
 
 - 🌱 I’m currently learning **Spring Boot, and Cloud Technologies**
